@@ -4,8 +4,6 @@ import socket
 from datetime import datetime
 from collections import defaultdict
 
-import asciichartpy as asciichart
-
 from src.config import Config
 from src.storage import Storage
 
